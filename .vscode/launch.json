@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppMain",
+            "request": "launch",
+            "mainClass": "net.codejava.AppMain",
+            "projectName": "SPPS"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppMain",
+            "request": "launch",
+            "mainClass": "net.codejava.AppMain",
+            "projectName": "spps"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppMain",
+            "request": "launch",
+            "mainClass": "net.codejava.AppMain",
+            "projectName": "ProductManager"
+        }
+    ]
+}
